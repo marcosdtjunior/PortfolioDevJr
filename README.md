@@ -3,6 +3,7 @@
 ## Desafio Técnico | Front-end - Módulo 1
 
 :pencil2: Projeto
+
 Desafio proposto pela [Cubos Academy](https://cubos.academy/sucesso), tem como objetivo replicar um site com informações sobre o portfólio de projetos de um desenvolvedor front-end júnior
 
 ## Páginas
