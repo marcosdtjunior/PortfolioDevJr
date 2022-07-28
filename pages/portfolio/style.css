@@ -1,0 +1,228 @@
+#portfolio {
+    color: #5FB4A2;
+}
+
+.manage {
+    display: flex;
+    justify-content: space-between;
+    width: 65%;
+    margin: 70px auto;
+}
+
+.manage img {
+    width: 460px;
+    height: 420px;
+}
+
+.texto-manage {
+    display: flex;
+    flex-direction: column;
+    width: 23vw;
+    margin: 50px 0;
+}
+
+.texto-manage h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 38px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+    margin: 10px 0;
+}
+
+.texto-manage p {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 14px;
+    line-height: 30px;
+    color: #33323D;
+    opacity: 0.8;
+}
+
+.texto-manage a {
+    text-decoration: none;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #33323D;
+    border: 1px solid #33323D;
+    padding: 17px 28px;
+    margin-top: 40px;
+    width: 110px;
+}
+
+.bookmark {
+    display: flex;
+    justify-content: space-between;
+    width: 65%;
+    margin: 80px auto;
+}
+
+.texto-bookmark {
+    display: flex;
+    flex-direction: column;
+    width: 23vw;
+    margin: 50px 0;
+}
+
+.texto-bookmark h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 38px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+    margin: 10px 0;
+}
+
+.texto-bookmark p {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 14px;
+    line-height: 30px;
+    color: #33323D;
+    opacity: 0.8;
+}
+
+.texto-bookmark a {
+    text-decoration: none;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #33323D;
+    border: 1px solid #33323D;
+    padding: 17px 28px;
+    margin-top: 40px;
+    width: 110px;
+}
+
+.bookmark img {
+    width: 460px;
+    height: 420px;
+}
+
+.insure {
+    display: flex;
+    justify-content: space-between;
+    width: 65%;
+    margin: 80px auto;
+}
+
+.insure img {
+    width: 460px;
+    height: 420px;
+}
+
+.texto-insure {
+    display: flex;
+    flex-direction: column;
+    width: 23vw;
+    margin: 50px 0;
+}
+
+.texto-insure h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 38px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+    margin: 10px 0;
+}
+
+.texto-insure p {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 14px;
+    line-height: 30px;
+    color: #33323D;
+    opacity: 0.8;
+}
+
+.texto-insure a {
+    text-decoration: none;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #33323D;
+    border: 1px solid #33323D;
+    padding: 17px 28px;
+    margin-top: 40px;
+    width: 110px;
+}
+
+.fylo {
+    display: flex;
+    justify-content: space-between;
+    width: 65%;
+    margin: 80px auto;
+}
+
+.texto-fylo {
+    display: flex;
+    flex-direction: column;
+    width: 23vw;
+    margin: 50px 0;
+}
+
+.texto-fylo h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 38px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+    margin: 10px 0;
+}
+
+.texto-fylo p {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 14px;
+    line-height: 30px;
+    color: #33323D;
+    opacity: 0.8;
+}
+
+.texto-fylo a {
+    text-decoration: none;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #33323D;
+    border: 1px solid #33323D;
+    padding: 17px 28px;
+    margin-top: 40px;
+    width: 110px;
+}
+
+.fylo img {
+    width: 460px;
+    height: 420px;
+}
+
+.contato {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+    margin: 120px auto;
+}
+
+.contato h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+    width: 367px;
+}
+
+.contato a {
+    text-decoration: none;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #33323D;
+    border: 1px solid #33323D;
+    padding: 17px 28px;
+}

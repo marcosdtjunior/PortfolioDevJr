@@ -1,0 +1,138 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+#home {
+    color: #5FB4A2;
+}
+
+.hero {
+    display: flex;
+    align-items: flex-end;
+    background-image: url(../../assets/home/image-homepage-hero.jpg);
+    margin: 50px auto;
+    width: 880px;
+    height: 460px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container-hero {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 280px;
+    background-color: #FAFAFA;
+}
+
+.container-hero h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: -0.446429px;
+    color: #33323D;
+    margin: auto 20px;
+}
+
+.link-hero {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #203A4C;
+    width: 200px;
+    height: 48px;
+}
+
+.link-hero a {
+    text-decoration: none;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.sobre {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 185px;
+}
+
+.sobre img {
+    width: 440px;
+    height: 500px;
+}
+
+.sobre-mim {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+}
+
+.sobre-mim h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 38px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+    margin-bottom: 20px;
+}
+
+.sobre-mim p {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 14px;
+    line-height: 30px;
+    color: #33323D;
+    opacity: 0.8;
+    margin-bottom: 20px;
+}
+
+.link-sobre {
+    display: flex;
+    justify-content: center;
+}
+
+.link-sobre a {
+    text-decoration: none;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #33323D;
+    border: 1px solid #33323D;
+    padding: 17px 28px;
+    margin-top: 10px;
+}
+
+.contato {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+    margin: 150px auto;
+}
+
+.contato h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+    width: 367px;
+}
+
+.contato a {
+    text-decoration: none;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #33323D;
+    border: 1px solid #33323D;
+    padding: 17px 28px;
+}

@@ -1,0 +1,76 @@
+#contato {
+    color: #5FB4A2;
+}
+
+.entre-em-contato {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: 80px auto;
+}
+
+.entre-em-contato h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 32px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+    margin-top: 15px;
+}
+
+.texto-contato p {
+    width: 550px;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 14px;
+    line-height: 30px;
+    color: #33323D;
+    opacity: 0.8;
+}
+
+.icones-contato img {
+    margin-right: 14px;
+}
+
+.contato {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: 80px auto;
+}
+
+.contato h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 32px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+    margin-top: 0;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+}
+
+.formulario label {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 13px;
+    color: #33323D;
+    margin-bottom: 8px;
+}
+
+.formulario textarea {
+    margin-bottom: 24px;
+}
+
+.formulario button {
+    width: 200px;
+    height: 48px;
+
+    color: #FFFFFF;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    background-color: #203A4C;
+    cursor: pointer;
+}
